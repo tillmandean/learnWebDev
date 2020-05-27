@@ -1,7 +1,12 @@
 body {
+  background-color: lightgrey;
+  color: black;
   font-family: Arial, Verdana, sans-serif;}
 h1, h2 {
-  background-color: orange;
-  color: DarkCyan;}
+  font-weight: bold;
+  font-style: oblique;
+  background-color: SeaGreen;
+  color: black;}
 p a {
-  color: green;}
+  font-style: italic;
+  color: SeaGreen;}
